@@ -25,10 +25,10 @@ Use data science to explore the relationship between:
 
 ## 📁 Repository Structure
 
-data/ - Raw and cleaned data files
-notebooks/ - Jupyter notebook for full analysis
-src/ - Python scripts (modular functions)
-reports/ - Business presentation and PDF report
+- data/ - Raw and cleaned data files
+- notebooks/ - Jupyter notebook for full analysis
+- src/ - Python scripts (modular functions)
+- reports/ - Business presentation and PDF report
 
 ## 📌 Tools & Technologies
 
